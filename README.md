@@ -3,15 +3,15 @@
 
 ## Description
 
+
 ## Table of Contents 
 
-* [Installation] (#installation)
+* [Installation](#installation)
 * [Usage](#usage)                     
-* [Credits](#credits)
 * [License](#license)
 
 ## Installation
-Clone the repo, navigate to the root folder, run the following commands from the CLI:     
+Clone the repo and run the following commands:
 
 Run Test;    
 `npm run test`     
@@ -23,16 +23,8 @@ Start Server;
 `npm start server`     
 
 ## Usage
-Deployed link: 
-
-
-## Credits
-
-
-I follow the Model-View-Controller paradigm. I use the express-handlebars (Links to an external site.) package to use Handlebars.js for my Views, I used the MySQL2 (Links to an external site.) and Sequelize (Links to an external site.) packages to connect to my MySQL database for my Models, and I created an Express.js API for my Controllers.
-
-## <ins>Links</ins>
-Github: https://github.com/tvu328/MVC  
+screenshot here
+Deployed link:
 
 ## License
 
