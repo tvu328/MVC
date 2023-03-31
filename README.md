@@ -22,7 +22,8 @@ Start Server;
 ## Usage
 ![ScreenShot](screenshot.png?raw=true "MVCHomePage")
 
-Deployed link: https://model-view-controller-mvc.herokuapp.com/login
+
+Deployed link: https://model-view-controller-mvc.herokuapp.com
 
 ## License
 
