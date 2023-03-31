@@ -21,7 +21,7 @@ Start Server;
 
 ## Usage
 screenshot here
-Deployed link:
+Deployed link: https://model-view-controller-mvc.herokuapp.com/login
 
 ## License
 
