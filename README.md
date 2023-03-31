@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/-Sequelize-d3d3d3?style=for-the-badge&logo=sequelize&logoColor=52B0E7)
 
 ## Description
-
+This app was made following the MVC paradigm that is a tech blog that you can publish blog posts and comment on other developer's posts. 
 
 ## Table of Contents 
 
@@ -11,10 +11,7 @@
 * [License](#license)
 
 ## Installation
-Clone the repo and run the following commands:
-
-Run Test;    
-`npm run test`     
+Clone the repo and run the following commands:    
 
 Seed DB;   
 `npm run seed`     
