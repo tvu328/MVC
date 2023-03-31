@@ -15,18 +15,18 @@
     "start": "node server.js",
     "seeds": "node seeds/index.js"
   },
-  "name": "tech-blog",
+  "name": "mvc",
   "description": "",
   "version": "1.0.0",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndreBlankholm/tech-blog.git"
+    "url": "git+https://github.com/tvu328/MVC.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndreBlankholm/tech-blog/issues"
+    "url": "https://github.com/tvu328/MVC/issues"
   },
-  "homepage": "https://github.com/AndreBlankholm/tech-blog#readme"
+  "homepage": "https://github.com/tvu328/MVC#readme"
 }

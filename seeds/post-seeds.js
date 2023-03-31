@@ -2,7 +2,7 @@ const { Post } = require('../models');
 
 const postData = [{
         title: 'What MVC means to me',
-        content: 'Not just a little but alot, its a ton of fun and whatever else',
+        content: 'Its a ton of fun and really easy to utilize.',
         user_id: 1
     },
     {
@@ -12,7 +12,7 @@ const postData = [{
     },
     {
         title: 'O.R.M.',
-        content: 'SQL queries were not very intresting until I started using ORM, now I cant get enough.',
+        content: 'SQL queries were not very interesting until I started using ORM.',
         user_id: 2
     }
 ];
