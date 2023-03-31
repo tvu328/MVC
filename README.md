@@ -20,7 +20,8 @@ Start Server;
 `npm start server`     
 
 ## Usage
-screenshot here
+![ScreenShot](screenshot.png?raw=true "MVCHomePage")
+
 Deployed link: https://model-view-controller-mvc.herokuapp.com/login
 
 ## License
